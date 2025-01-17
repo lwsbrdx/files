@@ -1,0 +1,6 @@
+{
+  "name": "Test Token",
+  "symbol": "TTKN",
+  "description": "Amazing test token",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+}
